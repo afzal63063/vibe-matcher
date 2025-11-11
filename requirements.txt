@@ -1,0 +1,16 @@
+pandas
+scikit-learn
+numpy
+faiss-cpu          # or faiss-gpu if you have GPU (Linux)
+openai
+pinecone-client
+python-dotenv
+matplotlib
+notebook
+sentence-transformers   # optional if you want local dense embeddings (SBERT)
+tqdm
+openai
+python-dotenv
+sentence-transformers
+faiss-cpu
+pinecone-client

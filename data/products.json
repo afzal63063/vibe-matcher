@@ -1,0 +1,9 @@
+[
+  {"id": 1, "name": "Boho Dress", "desc": "Flowy, earthy tones with embroidered details for festival and beach vibes", "tags": ["boho", "festival", "earthy"]},
+  {"id": 2, "name": "Urban Bomber Jacket", "desc": "Cropped bomber with bold lines and energetic urban styling, great for nights out", "tags": ["urban", "energetic", "chic"]},
+  {"id": 3, "name": "Cozy Knit Sweater", "desc": "Oversized knit in neutral colors for cozy indoor afternoons", "tags": ["cozy", "neutral", "loungewear"]},
+  {"id": 4, "name": "Sporty Street Sneakers", "desc": "Chunky sneakers with bright color pops for energetic streetwear looks", "tags": ["sporty", "street", "vibrant"]},
+  {"id": 5, "name": "Minimal Slip Dress", "desc": "Elegant monochrome slip dress for evening minimalist looks", "tags": ["minimal", "elegant", "city"]},
+  {"id": 6, "name": "Linen Vacation Set", "desc": "Relaxed breathable linen co-ord for vacation or summer days", "tags": ["relaxed", "vacation", "cozy"]},
+  {"id": 7, "name": "Silk Scarf", "desc": "Lightweight silk scarf with artistic prints for boho chic outfits", "tags": ["boho", "chic", "versatile"]}
+]

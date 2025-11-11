@@ -1,0 +1,13 @@
+query,top_score,good_match,avg_latency_s,rank,product_id,product_name,score
+energetic urban chic,0.37959925210497814,False,0.0009783800225704909,,,,
+energetic urban chic,,,,1.0,2.0,Urban Bomber Jacket,0.37959925210497814
+energetic urban chic,,,,2.0,4.0,Sporty Street Sneakers,0.3110326347798782
+energetic urban chic,,,,3.0,1.0,Boho Dress,0.2637427482515534
+relaxed cozy loungewear,0.4519362440578091,False,0.000679480005055666,,,,
+relaxed cozy loungewear,,,,1.0,5.0,Minimal Slip Dress,0.4519362440578091
+relaxed cozy loungewear,,,,2.0,6.0,Linen Vacation Set,0.4515396384707935
+relaxed cozy loungewear,,,,3.0,3.0,Cozy Knit Sweater,0.40344185570382357
+boho festival earthy tones,0.5629503793114612,False,0.0007511800155043602,,,,
+boho festival earthy tones,,,,1.0,1.0,Boho Dress,0.5629503793114612
+boho festival earthy tones,,,,2.0,7.0,Silk Scarf,0.38525385439369186
+boho festival earthy tones,,,,3.0,2.0,Urban Bomber Jacket,0.25387710021490795
